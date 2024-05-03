@@ -6,16 +6,15 @@ Part 1: Manual Testing
 Since the functionality of the tab home, search and my library covers many features and the scope of the test is not defined in the assessment and hence writing test cases for all of them will be many in numbers Therefore, I have narrowed down the scope of test
 
 Home:
+Basic filter based on music and podcast, albums appear based on the artist selected
 
-basic filter based on music and podcast, albums appear based on the artist selected
 Search:
-
 search based on artist
 search based on podcast
 search based on songs
 cancel button
-Your library:
 
+Your library:
 display selected artist
 create a new playlist
 add artist
